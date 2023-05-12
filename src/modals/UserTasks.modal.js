@@ -28,6 +28,7 @@ class UserTasksModal {
         return results;
     }
 
+    
 }
 
 module.exports = UserTasksModal
